@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PR1</string>
+    <string name="hello_ua">Привіт!</string>
+    <string name="hello_en">Hello!</string>
+    <string name="hello_fr">Bonjour!</string>
+    <string name="stop_ua">Перестань натискати мене!</string>
+    <string name="stop_en">Stop pressing me!</string>
+    <string name="stop_fr">Arrête de me presser!</string>
+    <string name="emoji">😡😡😡😡😡😡😡</string>
+    <string name="button_ua">Натисни мене</string>
+    <string name="button_en">Press me</string>
+    <string name="button_fr">Presse-moi</string>
+</resources>
